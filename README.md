@@ -1,5 +1,5 @@
 # 👋 Hi, my name willian 
-I am a systems development student and I enjoy programming, creating websites and games. I am seeking knowledge in the IT field and want to develop my own websites for student residences here on GitHub.
+I am a systems development student and I enjoy programming, creating websites and app. I am seeking knowledge in the IT field and want to develop my own websites for student residences here on GitHub.
 
 ## 🚀 About Me
 - 💻 Studying Systems Development
