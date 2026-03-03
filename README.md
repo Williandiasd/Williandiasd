@@ -15,5 +15,4 @@ I am a systems development student and I enjoy programming, creating websites an
 
 ## 📂 Featured Projects
 🔹 My projects will be here soon
-🔹 Websites, games, and modern interfaces
 🔹 Follow my repositories 👇
