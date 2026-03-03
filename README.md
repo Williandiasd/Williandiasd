@@ -4,7 +4,6 @@ I am a systems development student and I enjoy programming, creating websites an
 ## 🚀 About Me
 - 💻 Studying Systems Development
 - 📚 Learning HTML, CSS, JavaScript, and Git
-- 🎨 I enjoy user interface (UI/UX) design
 - 🔥 Always creating new projects to practice
 
 ## 🛠️ Tecnologias
