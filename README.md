@@ -1,8 +1,11 @@
-# 👋 Olá, eu sou o Willian
+# 👋 Hi, my name willian 
+I am a systems development student and I enjoy programming, creating websites and games. I am seeking knowledge in the IT field and want to develop my own websites for student residences here on GitHub.
 
-💻 Estudando Desenvolvimento de Sistemas  
-🎮 Interessado em jogos e UI/UX  
-🚀 Criando projetos web e apps  
+## 🚀 About Me
+- 💻 Studying Systems Development
+- 📚 Learning HTML, CSS, JavaScript, and Git
+- 🎨 I enjoy user interface (UI/UX) design
+- 🔥 Always creating new projects to practice
 
 ## 🛠️ Tecnologias
 - HTML
@@ -11,5 +14,7 @@
 - Git
 - Figma
 
-## 📂 Projetos
-- Em breve...
+## 📂 Featured Projects
+🔹 My projects will be here soon
+🔹 Websites, games, and modern interfaces
+🔹 Follow my repositories 👇
