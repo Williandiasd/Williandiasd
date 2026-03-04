@@ -11,7 +11,6 @@ I am a systems development student and I enjoy programming, creating websites an
 - CSS
 - JavaScript
 - Git
-- Figma
 
 ## 📂 Featured Projects
 🔹 My projects will be here soon
